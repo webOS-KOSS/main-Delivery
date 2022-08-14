@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-20" value="[subscribe를 통해 received 확인] com.webos.notification/createAlarm" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.15;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-20" value="[subscribe를 통해 received 확인] com.webos.notification/createAlert" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.15;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.3051" y="-2" relative="1" as="geometry">
             <mxPoint x="275" y="307.938" as="sourcePoint" />
             <mxPoint x="558.5" y="307.938" as="targetPoint" />

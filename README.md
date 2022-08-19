@@ -4,7 +4,7 @@
 
 ## 진행 상황
 
-- [ ] 택배 상자 & 배달 음식 감지
+- [X] 택배 상자 & 배달 음식 감지
 - [X] 영상 녹화 
 - [X] Google Drive 업로드
 - [ ] com.webos.service.storageaccess를 통한 영상 다운로드(webOS에)

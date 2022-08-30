@@ -7,9 +7,9 @@
 - [X] 택배 상자 & 배달 음식 감지
 - [X] 영상 녹화 
 - [X] Google Drive 업로드
-- [ ] com.webos.service.storageaccess를 통한 영상 다운로드(webOS에)
+- [X] com.webos.service.storageaccess를 통한 영상 다운로드(webOS에)
 - [ ] webOS 웹앱 개발(녹화된 영상들을 분류하고 볼 수 있는 웹앱)
-- [ ] webOS 서비스 개발(com.webos.notification/createAlert & com.webos.notification/createToast)
+- [ ] webOS 서비스 개발
 ---
 - [ ] 최종 구현(연계)
 

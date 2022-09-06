@@ -15,4 +15,4 @@
 
 ## 구성도
 
-![구성도](delivery.jpg)
+![구성도](Delivery.jpg)

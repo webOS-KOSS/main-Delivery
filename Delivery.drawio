@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T09:02:04.334Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c_e2bxBe_XFXWgsjnxKQ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T05:43:32.534Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LHz2cWIrxmOFZCjcSUkN" version="20.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2175" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-22" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-22" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="130" width="1050" height="370" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="webOS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -22,10 +22,10 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="77" width="10" height="293" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="50" y="107" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-11" value="[10초 이상 인식된 택배의 갯수 = 0] 녹화 종료 " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;startArrow=none;exitX=1.077;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.084;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" source="TofHJ6HbpgdQGZlDXPIa-15" target="TofHJ6HbpgdQGZlDXPIa-15">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-11" value="[10초 이상 인식된 택배의 갯수 = 0] 녹화 종료 " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;startArrow=none;exitX=1.077;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.084;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3nuBFxr9cyL0pnOWT2aG-5" source="TofHJ6HbpgdQGZlDXPIa-15" target="TofHJ6HbpgdQGZlDXPIa-15" edge="1">
           <mxGeometry x="-0.0062" y="50" relative="1" as="geometry">
             <mxPoint x="60" y="119" as="sourcePoint" />
             <mxPoint x="235.17000000000024" y="176.67999999999995" as="targetPoint" />
@@ -36,97 +36,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-4" value="녹화 시작" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.933;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TofHJ6HbpgdQGZlDXPIa-6" target="TofHJ6HbpgdQGZlDXPIa-15">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-4" value="녹화 시작" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.933;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TofHJ6HbpgdQGZlDXPIa-6" target="TofHJ6HbpgdQGZlDXPIa-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="177" as="targetPoint" />
             <mxPoint x="269" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-5" value="MQTT Broker" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-5" value="MQTT Broker" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="70" width="141" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="TofHJ6HbpgdQGZlDXPIa-5" vertex="1">
           <mxGeometry x="65" y="77" width="10" height="293" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.006;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TofHJ6HbpgdQGZlDXPIa-5" target="TofHJ6HbpgdQGZlDXPIa-34">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.006;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" parent="TofHJ6HbpgdQGZlDXPIa-5" target="TofHJ6HbpgdQGZlDXPIa-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-324.5" y="296.4999999999999" as="sourcePoint" />
             <mxPoint x="432.24999999999955" y="296.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-28" value="예" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-28" value="예" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TofHJ6HbpgdQGZlDXPIa-5" vertex="1">
           <mxGeometry x="-320" y="280" width="40" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-29" value="아니오" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-29" value="아니오" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TofHJ6HbpgdQGZlDXPIa-5" vertex="1">
           <mxGeometry x="-320" y="300" width="40" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-30" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;remove&quot;" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-30" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;remove&quot;" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="TofHJ6HbpgdQGZlDXPIa-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="61" y="270" as="targetPoint" />
             <mxPoint x="370" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-31" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;upload&quot;" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-31" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;upload&quot;" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="TofHJ6HbpgdQGZlDXPIa-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="61" y="313" as="targetPoint" />
             <mxPoint x="370" y="313" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-32" value="[subscribe를 통해 upload 확인] Google Drive에 녹화된 동영상 업로드" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="TofHJ6HbpgdQGZlDXPIa-5" source="TofHJ6HbpgdQGZlDXPIa-6">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-32" value="[subscribe를 통해 upload 확인] Google Drive에 녹화된 동영상 업로드" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="TofHJ6HbpgdQGZlDXPIa-5" source="TofHJ6HbpgdQGZlDXPIa-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-254" y="330" as="targetPoint" />
             <mxPoint x="55" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-40" value="com.webos.service.storageaccess로 영상 다운로드" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.15;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.183;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-40" value="com.webos.service.storageaccess로 영상 다운로드" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.15;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.183;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="TofHJ6HbpgdQGZlDXPIa-5" edge="1">
           <mxGeometry x="-0.0233" relative="1" as="geometry">
             <mxPoint x="361" y="340.64" as="sourcePoint" />
             <mxPoint x="647.6700000000001" y="340.00299999999993" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-23" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="TofHJ6HbpgdQGZlDXPIa-5">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-23" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="TofHJ6HbpgdQGZlDXPIa-5" vertex="1">
           <mxGeometry x="-320" y="250" width="990" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-3" value="[인식된 택배의 갯수 &gt;= 1] mosquitto_pub -t &quot;delivery&quot; -m &quot;arrived&quot; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.917;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-3" value="[인식된 택배의 갯수 &gt;= 1] mosquitto_pub -t &quot;delivery&quot; -m &quot;arrived&quot; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.917;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
           <mxGeometry x="-0.1467" relative="1" as="geometry">
             <mxPoint x="-30" y="160" as="sourcePoint" />
             <mxPoint x="270" y="160" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-13" value="[subscribe를 통해 arrived 확인] com.webos.notification/createToast" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.15;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.183;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-13" value="[subscribe를 통해 arrived 확인] com.webos.notification/createToast" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.15;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.183;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.1454" relative="1" as="geometry">
             <mxPoint x="275.8299999999999" y="169.37" as="sourcePoint" />
             <mxPoint x="562.5" y="168.73299999999995" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-18" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;received&quot; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.061;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-18" value="mosquitto_pub -t &quot;delivery&quot; -m &quot;received&quot; " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=1.061;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.1467" relative="1" as="geometry">
             <mxPoint x="-45" y="297.794" as="sourcePoint" />
             <mxPoint x="274.6099999999997" y="297.794" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-20" value="[subscribe를 통해 received 확인] com.webos.notification/createAlert" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.15;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="0.3051" y="-2" relative="1" as="geometry">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-20" value="[subscribe를 통해 received 확인] com.webos.appInstallService/dev/install 예 아니요를 묻는 앱 설치 및 launch" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.15;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="0.5873" relative="1" as="geometry">
             <mxPoint x="275" y="307.938" as="sourcePoint" />
             <mxPoint x="558.5" y="307.938" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-33" value="[subscribe를 통해 remove 확인] 녹화된 영상  삭제" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-33" value="[subscribe를 통해 remove 확인] 영상삭제" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-55" y="356" as="targetPoint" />
             <mxPoint x="264" y="356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-34" value="Google Drive" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-34" value="Google Drive" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="803" y="70" width="100" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="TofHJ6HbpgdQGZlDXPIa-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="TofHJ6HbpgdQGZlDXPIa-34">
+        <mxCell id="TofHJ6HbpgdQGZlDXPIa-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="TofHJ6HbpgdQGZlDXPIa-34" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lSkQW4AcPhrywIMa6WFJ-1" value="[subscribe를 통해 end 확인] com.webos.appInstallService/dev/remove" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.183;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-2">
+          <mxGeometry x="0.1454" relative="1" as="geometry">
+            <mxPoint x="-50.00000000000006" y="440.64" as="sourcePoint" />
+            <mxPoint x="236.67000000000002" y="440.00299999999993" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
